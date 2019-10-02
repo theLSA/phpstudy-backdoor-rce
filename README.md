@@ -22,23 +22,33 @@ pip install requests
 
 使用帮助
 
+
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd00.png)
+
 
 单url漏洞检测
 
+
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd01.png)
+
 
 cmdshell
 
+
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd02.png)
+
 
 getshell
 
+
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd03.png)
+
 
 批量检测
 
+
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd04.png)
+
 
 ## 0x03 反馈
 
